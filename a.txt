@@ -19,12 +19,9 @@ hthth
 gfgfg
 sdasd
 hyhyhy
-<<<<<<< HEAD
-=======
 dsadad
 dasdsa
 hthth
 dsadadas
 hththt
 hththt
->>>>>>> 9d3e3b3... 22
